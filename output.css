@@ -2693,8 +2693,9 @@ html {
   text-align:center;
   font-size: clamp(1.5rem, 1.1rem + 1.8vw, 2rem);
   color: var(--text);
-  margin: 0 0 28px;
+  margin: 7% 0;
   line-height:1.2;
+  text-transform: capitalize;
 }
 
 .grid{
